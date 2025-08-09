@@ -1,0 +1,19 @@
+{
+  "name": "Gestão Confeitaria",
+  "short_name": "Confeitaria",
+  "description": "App para gestão de pedidos, produtos e clientes de confeitaria",
+  "theme_color": "#F59E0B",
+  "background_color": "#FFFBEB",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
